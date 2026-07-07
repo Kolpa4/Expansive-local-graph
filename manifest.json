@@ -2,7 +2,7 @@
   "id": "expansive-local-graph",
   "name": "Expansive Local Graph",
   "version": "1.0.0",
-  "minAppVersion": "1.5.0",
+  "minAppVersion": "1.6.0",
   "description": "Experimental patch for per-node local graph depth.",
   "author": "Kolpa4",
   "authorUrl": "https://github.com/Kolpa4",
