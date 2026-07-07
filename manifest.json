@@ -1,0 +1,9 @@
+{
+  "id": "expansive-local-graph",
+  "name": "Expansive Local Graph",
+  "version": "0.0.1",
+  "minAppVersion": "1.5.0",
+  "description": "Experimental patch for per-node local graph depth.",
+  "author": "Kolpa4",
+  "isDesktopOnly": true
+}
