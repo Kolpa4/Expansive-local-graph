@@ -4,6 +4,8 @@ Plugin for Obsidian which allow you to expand local graph branches beyond the na
 Expansive Local Graph is an Obsidian plugin that extends the Local Graph with manual branch expansion beyond the native depth limit. It lets you expand specific nodes on demand, render additional linked notes as overlay nodes, and keep expanded branches visually attached while the graph is redrawn.
 
 ## What it does
+<img width="474" height="715" alt="image" src="https://github.com/user-attachments/assets/789ed835-7c01-426e-ade3-7a1fd4b5b405" />
+
 Adds Expand here, Reduce here, and branch reset actions to the Local Graph node context menu.
 
 Draws extra nodes and edges as an overlay instead of modifying Obsidian's native graph dataset.
